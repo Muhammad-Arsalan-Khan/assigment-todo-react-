@@ -36,5 +36,4 @@ Follow these steps to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/simple-react-todo.git
-cd simple-react-todo
+https://github.com/Muhammad-Arsalan-Khan/react-todo.git
