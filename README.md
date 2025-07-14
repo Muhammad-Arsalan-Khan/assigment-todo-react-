@@ -16,7 +16,8 @@ A clean and minimal Todo application built using **React JS**. This project help
 
 ## 📸 Demo
 
-![Todo App Screenshot](./screenshot.png) <!-- Replace with your actual screenshot if available -->
+![Todo App Screenshot](<img width="466" height="520" alt="image" src="https://github.com/user-attachments/assets/a6211bf8-6c78-4a2b-9f52-5cb002bc8ad4" />
+) <!-- Replace with your actual screenshot if available -->
 
 ---
 
